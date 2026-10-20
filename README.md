@@ -8,7 +8,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC6192987/
 
 ## Biological question
 
-Compare DMSO and Homoharringtonine treatmentsThe information is stored in the $sra.sample_attributes in colData() object.
+Compare DMSO and Homoharringtonine treatments. The analysis aims to identify differentially expressed genes in each treatment after data processing and normalization and ultimately performing gene set enrichment analysis (GSEA).
+The information is stored in the $sra.sample_attributes in colData() object.
 
 ## File name
 
